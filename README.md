@@ -39,11 +39,3 @@ Le dépôt est organisé en plusieurs dossiers :
 
 ---
 
-## Utilisation
-
-1. **Simulation (Runge-Kutta)**  
-   Exécutez le fichier `Sim IHM V2.1.py` depuis le répertoire `simulation`.  
-   Il affichera une simulation graphique du double pendule sur chariot. Les équations sont résolues via une méthode de Runge-Kutta d’ordre 4 pour fournir des résultats précis et fluides.
-
-   ```bash
-   python simulation/Sim\ IHM\ V2.1.py
